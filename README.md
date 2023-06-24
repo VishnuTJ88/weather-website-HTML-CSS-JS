@@ -1,0 +1,2 @@
+# weather-website-HTML-CSS-JS
+This project is a dynamic website that utilizes HTML, CSS, and JavaScript (JS) to deliver a seamless user experience. It incorporates an API (Application Programming Interface) to fetch real-time data and provide accurate weather forecasts.The website's design is a user-friendly interface that allows users to interact with interactive elements and visualize weather information effectively. 
